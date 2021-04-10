@@ -1,0 +1,2 @@
+5.09   Start copying log.txt to new.txt
+5.09   new.txt is copied completely
